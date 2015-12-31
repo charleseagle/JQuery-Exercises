@@ -1,0 +1,38 @@
+#left {
+width: 300px;
+float: left;
+padding: 15px;
+margin: 10px;
+background-color: #FFFFFE;
+
+}
+
+#center {
+width: 300px;
+float: left;
+padding: 15px;
+margin: 10px;
+background-color: #ecflef;
+
+}
+
+#right {
+width: 300px;
+float: left;
+padding: 15px;
+margin: 10px;
+background-color: #ebece4;
+
+}
+
+#left, #center, #right {
+border: solid 2px blue;
+}
+
+#left, #center, #right {
+border: solid 2px orange;
+}
+
+h2~p {
+color: red;
+}
